@@ -13,16 +13,16 @@
 - **Build Tool**: Vite
 
 ### Backend
-- **Runtime**: Node.js 20+ LTS
-- **Framework**: Express.js or Fastify
-- **Database**: PostgreSQL with Prisma ORM
+- **Runtime**: Python
+- **Framework**: Fastapi
+- **Database**: PostgreSQL with alembic ORM
 - **Cache**: Redis
 
 ### Infrastructure
-- **Cloud**: AWS
+- **Cloud**: Free Server (Render backend +db , Vercel Frontend)
 - **Container**: Docker
-- **CI/CD**: GitHub Actions
-- **Monitoring**: DataDog or CloudWatch
+- **CI/CD**: -
+- **Monitoring**: -
 
 ---
 
